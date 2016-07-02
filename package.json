@@ -1,0 +1,23 @@
+{
+  "name": "chrome-extension",
+  "version": "1.0.0",
+  "description": "test chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergio773/ChromeExtension.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension"
+  ],
+  "author": "Sergio Lorca Cascales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergio773/ChromeExtension/issues"
+  },
+  "homepage": "https://github.com/sergio773/ChromeExtension#readme"
+}

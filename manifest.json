@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Test Plugin",
+  "description": "",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "assets/icon.png",
+    "default_popup": "views/popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
